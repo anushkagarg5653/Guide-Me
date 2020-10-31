@@ -9,19 +9,19 @@
   <div align="center">  
     
   ![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
-  ![forthebadge](https://forthebadge.com/images/badges/built-with-coffee.svg)
+  ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
   ![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)
   
 
 </div>
 </p>
-
+<br>
 ## ABOUT:
 
-
+<br>
 ## SCREENSHOTS:
 
-
+<br>
 ## HOW TO GET STARTED?
 
 - Open the CMD in windows.
@@ -33,19 +33,20 @@ git clone [URL]
 ```
 - `cd` into project directory.
 
-- And then run:  
-Python 2: `python -m SimpleHTTPServer 8000`
-or
-Python 3: `python -m http.server 8000`
-
-to start the web-UI in development mode. 
-
-
+- And then run the following commands (acc.to your vers.of python) to start the web-UI in development mode.
+- Python 2:
+```sh
+python -m SimpleHTTPServer 8000
+```
+- Python 3:
+```sh
+python -m http.server 8000
+```
 - Open ***http://localhost:8000*** to view it in the browser.
 ```sh
 port:8000
 ```
-
+<br>
 ## LANGUAGES AND FRAMEWORKS USED:
 
  <div>
