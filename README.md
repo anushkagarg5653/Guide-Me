@@ -17,10 +17,10 @@
 </p>
 
 ## ABOUT:
-
+Guideme is a webapp which guides students to choose the field which matches their interest, it also provides a discussion platform and resources for the same.
 
 ## SCREENSHOTS:
-
+<img src="https://github.com/anushkagarg5653/Guide-Me/blob/main/images/landing%20page%201.png"/>
 
 ## HOW TO GET STARTED?
 
