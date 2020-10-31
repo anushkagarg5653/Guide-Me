@@ -1,0 +1,50 @@
+body {
+  font-family: monospace;
+  font-size: 1.2em;
+  background-color: #0077BE;
+  color: white;
+  display: flex;
+  flex-flow: column;
+}
+
+
+.body {
+  flex: 1;
+  margin: 2em 3em;
+}
+
+
+a {
+  text-decoration: underline;
+  color: white;
+}
+
+
+.logo a {
+  font-size: 20px;
+  text-decoration: none;
+}
+
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+
+input, button {
+  border: 0;
+  padding: 5px 10px;
+  font-family: monospace;
+  font-size: 1em;
+}
+
+
+footer {
+  flex: 0;
+  align-self: center;
+}
+
+.footer {
+  text-align: center;
+}

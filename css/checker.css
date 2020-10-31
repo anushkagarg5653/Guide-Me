@@ -1,0 +1,52 @@
+/* body {
+  font-family: monospace;
+  font-size: 1.2em;
+  background-color: #0077BE;
+  color: white;
+  display: flex;
+  flex-flow: column;
+}
+
+input, button {
+  border: 0;
+  padding: 5px 10px;
+  font-family: monospace;
+  font-size: 1em;
+} */
+
+ul {
+  list-style-type: none;
+  padding: 5px 0px;
+  margin: 0px;
+}
+
+li {
+  margin: 10px 0px;
+}
+
+/* .body {
+  flex: 1;
+  margin: 2em 3em;
+}
+
+
+a {
+  text-decoration: underline;
+  color: white;
+}
+
+
+.logo a {
+  font-size: 20px;
+  text-decoration: none;
+}
+
+
+footer {
+  flex: 0;
+  align-self: center;
+}
+
+.footer {
+  text-align: center;
+} */
