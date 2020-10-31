@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>GuideMe</title>
+    <link rel="stylesheet" href="../css/style.min.css" />
+    <link rel="stylesheet" href="../css/checker.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-116318405-1"></script>
+    <script async src="../javascript/g-tracking.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Aclonica&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+    <!-- navbar -->
+    <div class="navbar" style="background-color:#ffc60b">
+        <nav class="nav__mobile"></nav>
+        <div class="container">
+            <div class="navbar__inner">
+                <a href="/" class="navbar__logo">GuideMe</a>
+                <nav class="navbar__menu">
+                    <ul>
+                    </ul>
+                </nav>
+                <div class="navbar__menu-mob"><a href="" id="toggle"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M16 132h416c8.837 0 16-7.163 16-16V76c0-8.837-7.163-16-16-16H16C7.163 60 0 67.163 0 76v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16z" class=""></path></svg></a></div>
+            </div>
+        </div>
+    </div>
+    <!-- Page content -->
+    <div class="app">
+        <div class="container">
+            <div class="app__inner">
+                <div class="auth__media">
+                    <img src="../images/4.png">
+                </div>
+                <div class="app__main">
+                    <div class="text-container">
+                        <h2 class="app__main__title" style="font-family: 'Aclonica', sans-serif;">Answer a few questions</h2>
+                        <p class="page__header__subtitle" style="font-size:1.1rem;">So we can create a detailed learning profile for you and help you grow in the right career</p><br>
+                        <form id="question-form" action="#">
+                            <input id="index" value=" " hidden>
+                            <div id="question"></div>
+                            <div id="answers"></div>
+                            <button type="submit">Next</button>
+                        </form>
+                        <p><i>Total: 7 questions</i></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Linking Javascript -->
+    <script src="../javascript/app.min.js"></script>
+    <script src="../javascript/jquery-3.3.1.min.js"></script>
+    <script src="../javascript/checker.js"></script>
+</body>
+
+</html>
