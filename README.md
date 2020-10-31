@@ -9,7 +9,7 @@
   <div align="center">  
     
   ![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
-  ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
+  ![forthebadge](https://forthebadge.com/images/badges/built-with-coffee.svg)
   ![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)
   
 
@@ -31,12 +31,14 @@
 ```sh
 git clone [URL]
 ```
-- `$ cd` into project directory
+- `cd` into project directory.
 
-- And then run  
-- Python 2: `$ python -m SimpleHTTPServer 8000`
-- Python 3: `$ python -m http.server 8000`
- to start the web-UI in development mode. 
+- And then run:  
+Python 2: `python -m SimpleHTTPServer 8000`
+or
+Python 3: `python -m http.server 8000`
+
+to start the web-UI in development mode. 
 
 
 - Open ***http://localhost:8000*** to view it in the browser.
