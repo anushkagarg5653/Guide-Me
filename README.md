@@ -88,6 +88,14 @@ The Project is released under the terms of the [MIT License](LICENSE).
     <a href="https://medium.com/@ananya4negi" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   </p>
 </td>
+
+<td align="center"><a href="https://github.com/Annanya481"><img src="/images/annanya.jpeg" width="210px;" height="230px;" alt=""/><br /><sub><b>ANNANYA PANDEY</b></sub></a><br /><p align="center">
+    
+   <a href="https://www.linkedin.com/in/annanya-pandey-7a9043195/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="mailto:mail2annanya@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+    <a href="https://annanya.info/" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+  </p>
+</td>
       
    </tr>
     </table>
