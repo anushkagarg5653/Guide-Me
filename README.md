@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="" target="_blank">
-        <img width="30%" height="50%" src="/images/HackElites.jpeg" alt="HackElites" >
+        <img width="30%" height="50%" src="/images/LOGO.png" alt="HackElites" >
     </a>
    </p>
         
