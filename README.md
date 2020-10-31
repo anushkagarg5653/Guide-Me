@@ -1,4 +1,4 @@
-<h1 align="center"><b> TEAM HACKELITES</b></h1>
+<h1 align="center"><b> TEAM HACK ELITES</b></h1>
 
 <p align="center">
     <a href="" target="_blank">
