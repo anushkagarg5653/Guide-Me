@@ -15,13 +15,13 @@
 
 </div>
 </p>
-<br>
+
 ## ABOUT:
 
-<br>
+
 ## SCREENSHOTS:
 
-<br>
+
 ## HOW TO GET STARTED?
 
 - Open the CMD in windows.
@@ -46,7 +46,7 @@ python -m http.server 8000
 ```sh
 port:8000
 ```
-<br>
+
 ## LANGUAGES AND FRAMEWORKS USED:
 
  <div>
