@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>GuideMe</title>
+    <link rel="stylesheet" href="../css/style.min.css" />
+    <link rel="stylesheet" href="../css/checker.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-116318405-1"></script>
+    <script async src="../javascript/g-tracking.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Aclonica&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+    <!-- navbar -->
+    <div class="navbar" style="background-color:#ffc60b">
+        <nav class="nav__mobile"></nav>
+        <div class="container">
+            <div class="navbar__inner">
+                <a href="/" class="navbar__logo">GuideMe</a>
+                <nav class="navbar__menu">
+                    <ul>
+                    </ul>
+                </nav>
+                <div class="navbar__menu-mob"><a href="" id="toggle"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M16 132h416c8.837 0 16-7.163 16-16V76c0-8.837-7.163-16-16-16H16C7.163 60 0 67.163 0 76v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16z" class=""></path></svg></a></div>
+            </div>
+        </div>
+    </div>
+    <!-- Page content -->
+    <div class="app">
+        <div class="container">
+            <div class="app__inner">
+                <div class="auth__media">
+                    <img src="../images/3.png">
+                </div>
+
+                <div class="app__main">
+                    <div class="text-container">
+                        <h3 class="app__main__title" style="font-family: 'Aclonica', sans-serif;">Your Job Fit</h3>
+                        <p>Based on your answers, we think you would fit well in these jobs:</p>
+                        <!--<p>To learn the skills required to do any of these jobs, go through its curated learning playlist.</p>-->
+                        <div id="resources">
+                            <!-- script appends list of resources in here -->
+                            <h4>Loading ...</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Footer -->
+    <div class="footer" style="background-color: black;">
+        <div class="container">
+            <div class="footer__inner">
+                <a href="index.html" class="footer__textLogo" style="color: #f3c623;text-align: center;">GuideMe</a>
+                <div class="footer__data">
+                    <div class="footer__data__item">
+                        <div class="footer__row" style="text-align:center;">
+                            Made By <a href="/" class="footer__link" style="color: #f3c623;text-align: center;">Hack Elites</a> with Love.
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <!-- Linking Javascript -->
+        <script src="../javascript/app.min.js"></script>
+        <script src="https://apis.google.com/js/api.js"></script>
+        <script src="../javascript/jquery-3.3.1.min.js"></script>
+        <script src="../javascript/resources.js"></script>
+    </div>
+</body>
+
+</html>
